@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "prod-025",
+      "sku": "454966",
+      "slug": "camiseta-basica-cuello-redondo-manga-corta",
+      "name": "Camiseta basica cuello redondo manga corta",
+      "description": "Camiseta basica cuello redondo manga corta",
+      "price": 65000,
+      "images": [
+        "https://res.cloudinary.com/dwqyypb8q/image/upload/v1772404226/1.jpg_yvuztf.jpg",
+        "https://res.cloudinary.com/dwqyypb8q/image/upload/v1772404230/2_tef88c.png",
+        "https://res.cloudinary.com/dwqyypb8q/image/upload/v1772404234/3_sytdtd.png"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "category": "hombre",
+      "subcategory": "Basico",
+      "fabric": "plano",
+      "featured": true,
+      "badge": null
+    }
+  ]
+}
